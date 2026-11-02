@@ -1,0 +1,11 @@
+Name: Shanmathi S
+
+Job Title: Machine Vision Engineer
+
+Experience: 1.5 years
+
+Technical Skills: Python, OpenCV, YOLO, FastAPI, SQL
+
+Projects:
+- Machine Vision Inspection System
+- AI Resume Extractor
